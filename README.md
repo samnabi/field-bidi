@@ -19,7 +19,7 @@ Install this plugin as a git submodule to make updates and version control easy.
 
 ```
 cd your/kirby/root
-git submodule add https://github.com/samnabi/field-bidi.git site/plugins
+git submodule add https://github.com/samnabi/field-bidi.git site/plugins/field-bidi
 ```
 
 ### Without git
